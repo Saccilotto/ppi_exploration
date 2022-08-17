@@ -1,0 +1,10 @@
+Mandelbroot set from (-2.125+I -1.5) to (0.875+I 1.5)
+resolution 1000000 pixel, Max. n. of iterations 1024
+Run [0] DONE, time= 27127.993000 (ms)
+Run [1] DONE, time= 27183.956000 (ms)
+Run [2] DONE, time= 26968.071000 (ms)
+Run [3] DONE, time= 26940.126000 (ms)
+Run [4] DONE, time= 27063.843000 (ms)
+Average on 5 experiments = 27056.797800 (ms) Std. Dev. 92.490381
+
+Press a key
