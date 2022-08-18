@@ -4,8 +4,8 @@ The repository's organization is defined as follows:
 
 TBB folder: Intel TBB Mandelbrot implementation and its report inside mandel folder.
 
-Fastflow folder: FastFlow Mandelbrot implementation and its report inside mandel folde.
+Fastflow folder: FastFlow Mandelbrot implementation and its report inside mandel folder.
 
-Spar folder: SPar Mandelbrot implementation and its report inside mandel folde.
+Spar folder: SPar Mandelbrot implementation and its report inside mandel folder.
 
-AL4 folder: C++Threads Mandelbrot implementation and its report inside mandel folde.
+C++Threads folder: C++Threads Mandelbrot implementation and its report inside mandel folder.
