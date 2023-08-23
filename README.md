@@ -1,7 +1,3 @@
-This repository consists on Mandelbrot set's calculation and image generation application. Its output produces the Mandelbrot's visuzalization. 
-The original application was changed in order to leverage parallel desing patterns' strategies. 
-These implementations were made with parallel programming interfaces' usage and their performance was reported on each one. 
-
 The repository's organization is defined as follows:
 Spar folder: SPar Mandelbrot implementation and its report inside mandel folder.
 TBB folder: Intel TBB Mandelbrot implementation and its report inside mandel folder.
